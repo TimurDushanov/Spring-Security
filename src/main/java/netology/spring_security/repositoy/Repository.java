@@ -1,7 +1,7 @@
-package netology.spring_security;
+package netology.spring_security.repositoy;
 
-import netology.spring_security.Model.Contact;
-import netology.spring_security.Model.Person;
+import netology.spring_security.model.Contact;
+import netology.spring_security.model.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

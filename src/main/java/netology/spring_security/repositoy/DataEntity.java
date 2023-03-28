@@ -1,8 +1,8 @@
-package netology.spring_security;
+package netology.spring_security.repositoy;
 
 import javax.persistence.*;
-import netology.spring_security.Model.Contact;
-import netology.spring_security.Model.Person;
+import netology.spring_security.model.Contact;
+import netology.spring_security.model.Person;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;

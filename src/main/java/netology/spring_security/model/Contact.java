@@ -1,4 +1,4 @@
-package netology.spring_security.Model;
+package netology.spring_security.model;
 
 import javax.persistence.*;
 import lombok.AllArgsConstructor;

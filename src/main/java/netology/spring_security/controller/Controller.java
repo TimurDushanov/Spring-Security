@@ -1,7 +1,8 @@
-package netology.spring_security;
+package netology.spring_security.controller;
 
 import lombok.AllArgsConstructor;
-import netology.spring_security.Model.Person;
+import netology.spring_security.model.Person;
+import netology.spring_security.repositoy.Repository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

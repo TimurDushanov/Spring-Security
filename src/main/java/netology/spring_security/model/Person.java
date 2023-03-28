@@ -1,4 +1,4 @@
-package netology.spring_security.Model;
+package netology.spring_security.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
